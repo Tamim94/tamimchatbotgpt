@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064950690516",
+    "project_id": "tamimgpt3chat",
+    "storage_bucket": "tamimgpt3chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064950690516:android:90157cd68b67f440704141",
+        "android_client_info": {
+          "package_name": "com.example.tamimgpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064950690516-ffndg907g4jt8hu1vi8dtmr97sgkkn8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPGw6yl3p3Q-Jn0o5fc8uuM3GAqcGCKKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064950690516-ffndg907g4jt8hu1vi8dtmr97sgkkn8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
