@@ -104,7 +104,6 @@ class _MyHomePageState extends State<MyHomePage> {
     // TODO: implement initState
     super.initState();
     openAI = ChatGPT.instance.builder(
-        "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",
         baseOption: HttpSetup(receiveTimeout: 16000));
     tts = TextToSpeech();
     initializeTTS();
